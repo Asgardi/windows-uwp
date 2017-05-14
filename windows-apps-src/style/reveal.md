@@ -73,7 +73,7 @@ These controls do not have Reveal by default as they are smaller controls that a
 | RepeatButton | RepeatButtonRevealStyle |
 | AppBarButton | AppBarButtonRevealStyle |
 | SemanticZoom | SemanticZoomRevealStyle |
-| ComboBox | ComboxBoxRevealStyle |
+| ComboBox | ComboBoxRevealStyle |
 
 To apply these styles, simply update the Style property like so:
 
